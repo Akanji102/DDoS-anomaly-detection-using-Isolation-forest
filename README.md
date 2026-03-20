@@ -340,11 +340,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 "The guard who knows everyone doesn't need a mugshot book.
-He needs to know you—your habits, your rhythms, your normal.
+He needs to know you, your habits, your rhythms, your normal.
 And when something feels wrong, he doesn't wait for a signature match.
 He acts."
 
-— Owen, probably
+— Owen, (probably)
 ```
 
 ---
